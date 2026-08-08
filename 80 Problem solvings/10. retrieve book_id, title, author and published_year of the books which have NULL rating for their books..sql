@@ -1,0 +1,3 @@
+SELECT *
+FROM Library
+WHERE rating IS NULL
