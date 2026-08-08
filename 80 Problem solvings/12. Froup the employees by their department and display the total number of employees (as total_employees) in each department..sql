@@ -1,5 +1,5 @@
 SELECT 
-	department,
-	COUNT (*) As Total_Employees
+ department,
+ COUNT(*) 
 FROM EmployeesPractice
 GROUP BY department
